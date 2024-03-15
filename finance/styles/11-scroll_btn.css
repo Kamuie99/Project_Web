@@ -1,0 +1,10 @@
+.scrollToNextSectionButton {
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+  width: 60px;
+  border: none;
+}
+
+.button_to_next {
+  margin-top: 70px;
+}
